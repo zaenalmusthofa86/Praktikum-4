@@ -1,7 +1,8 @@
 # Praktikum-4
 
-Latihan 1 (Perhitungan dengan kodisi diskon tertentu)
 
+# Latihan 1 (Perhitungan dengan kodisi diskon tertentu)
+```
 Alur Algoritma :
 -Mendeklarasikan awal: (yt) untuk rumus perulangan "pilihan di akhir"
     	{cin>>yt;
@@ -31,6 +32,7 @@ Alur Algoritma :
         else if (total>=501000) (diskon=total*0.05);
         else (diskon=total*0);
 	GT=total-diskon;
+-Menampilkan kelayar
 
 Berikut Pseudo-Codenya :
 
@@ -164,7 +166,7 @@ int main() {
 
      return 0;
 }
-
+```
 -Berikut hasil screenshotnya:
 1.Kode pilihan T-selesai:
 
