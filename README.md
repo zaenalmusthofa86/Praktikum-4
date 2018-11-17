@@ -1,4 +1,4 @@
-# Praktikum-4
+# Praktikum_4
 
 
 # Latihan 1 (Perhitungan dengan kodisi diskon tertentu)
